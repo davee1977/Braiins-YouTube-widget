@@ -1,0 +1,14 @@
+{
+  "name": "YouTube Subs",
+  "version": "1.0.0",
+  "description": "Počet odběratelů kanálu mimostezky",
+  "author": "Davee1977",
+  "screens": [
+    {
+      "width": 317,
+      "height": 238,
+      "url": "index.html",
+      "refresh_interval": 600
+    }
+  ]
+}
